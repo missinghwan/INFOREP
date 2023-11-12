@@ -1,0 +1,224 @@
+C:\Users\user\Anaconda3\python.exe "C:/Users/user/PycharmProjects/Metapath-based GAE/run.py"
+Epoch: 0000 train_loss= 3.54435 train/struct_loss= 16.43788 train/feat_loss= 1.26902
+Epoch: 0000 Auc 0.7771123753092647
+Epoch: 0001 train_loss= 3.32722 train/struct_loss= 15.30452 train/feat_loss= 1.21358
+Epoch: 0002 train_loss= 3.17921 train/struct_loss= 14.44483 train/feat_loss= 1.19116
+Epoch: 0003 train_loss= 3.04712 train/struct_loss= 13.60842 train/feat_loss= 1.18336
+Epoch: 0004 train_loss= 2.93481 train/struct_loss= 12.86980 train/feat_loss= 1.18158
+Epoch: 0005 train_loss= 2.82136 train/struct_loss= 12.11427 train/feat_loss= 1.18143
+Epoch: 0006 train_loss= 2.72435 train/struct_loss= 11.46758 train/feat_loss= 1.18143
+Epoch: 0007 train_loss= 2.61954 train/struct_loss= 10.76886 train/feat_loss= 1.18143
+Epoch: 0008 train_loss= 2.50870 train/struct_loss= 10.02992 train/feat_loss= 1.18143
+Epoch: 0009 train_loss= 2.40836 train/struct_loss= 9.36098 train/feat_loss= 1.18143
+Epoch: 0010 train_loss= 2.31920 train/struct_loss= 8.76656 train/feat_loss= 1.18143
+Epoch: 0010 Auc 0.7811510156483918
+Epoch: 0011 train_loss= 2.23910 train/struct_loss= 8.23258 train/feat_loss= 1.18143
+Epoch: 0012 train_loss= 2.16441 train/struct_loss= 7.73465 train/feat_loss= 1.18142
+Epoch: 0013 train_loss= 2.11015 train/struct_loss= 7.37292 train/feat_loss= 1.18142
+Epoch: 0014 train_loss= 2.07067 train/struct_loss= 7.10972 train/feat_loss= 1.18142
+Epoch: 0015 train_loss= 2.04886 train/struct_loss= 6.96433 train/feat_loss= 1.18142
+Epoch: 0016 train_loss= 2.04192 train/struct_loss= 6.91807 train/feat_loss= 1.18142
+Epoch: 0017 train_loss= 2.01930 train/struct_loss= 6.76725 train/feat_loss= 1.18143
+Epoch: 0018 train_loss= 1.99535 train/struct_loss= 6.60757 train/feat_loss= 1.18142
+Epoch: 0019 train_loss= 1.97453 train/struct_loss= 6.46880 train/feat_loss= 1.18142
+Epoch: 0020 train_loss= 1.96165 train/struct_loss= 6.38296 train/feat_loss= 1.18142
+Epoch: 0020 Auc 0.7971171029200875
+Epoch: 0021 train_loss= 1.95690 train/struct_loss= 6.35129 train/feat_loss= 1.18142
+Epoch: 0022 train_loss= 1.95519 train/struct_loss= 6.33985 train/feat_loss= 1.18142
+Epoch: 0023 train_loss= 1.95553 train/struct_loss= 6.34214 train/feat_loss= 1.18142
+Epoch: 0024 train_loss= 1.95577 train/struct_loss= 6.34371 train/feat_loss= 1.18142
+Epoch: 0025 train_loss= 1.95318 train/struct_loss= 6.32646 train/feat_loss= 1.18142
+Epoch: 0026 train_loss= 1.95183 train/struct_loss= 6.31749 train/feat_loss= 1.18142
+Epoch: 0027 train_loss= 1.95064 train/struct_loss= 6.30953 train/feat_loss= 1.18142
+Epoch: 0028 train_loss= 1.95026 train/struct_loss= 6.30700 train/feat_loss= 1.18142
+Epoch: 0029 train_loss= 1.95262 train/struct_loss= 6.32273 train/feat_loss= 1.18142
+Epoch: 0030 train_loss= 1.95368 train/struct_loss= 6.32983 train/feat_loss= 1.18142
+Epoch: 0030 Auc 0.7984269662921349
+Epoch: 0031 train_loss= 1.95223 train/struct_loss= 6.32013 train/feat_loss= 1.18142
+Epoch: 0032 train_loss= 1.94934 train/struct_loss= 6.30087 train/feat_loss= 1.18142
+Epoch: 0033 train_loss= 1.94884 train/struct_loss= 6.29752 train/feat_loss= 1.18142
+Epoch: 0034 train_loss= 1.94853 train/struct_loss= 6.29544 train/feat_loss= 1.18142
+Epoch: 0035 train_loss= 1.94978 train/struct_loss= 6.30383 train/feat_loss= 1.18142
+Epoch: 0036 train_loss= 1.94970 train/struct_loss= 6.30331 train/feat_loss= 1.18142
+Epoch: 0037 train_loss= 1.94853 train/struct_loss= 6.29549 train/feat_loss= 1.18142
+Epoch: 0038 train_loss= 1.94764 train/struct_loss= 6.28956 train/feat_loss= 1.18142
+Epoch: 0039 train_loss= 1.94705 train/struct_loss= 6.28564 train/feat_loss= 1.18142
+Epoch: 0040 train_loss= 1.94801 train/struct_loss= 6.29204 train/feat_loss= 1.18142
+Epoch: 0040 Auc 0.7983667680476544
+Epoch: 0041 train_loss= 1.94850 train/struct_loss= 6.29525 train/feat_loss= 1.18142
+Epoch: 0042 train_loss= 1.94825 train/struct_loss= 6.29360 train/feat_loss= 1.18142
+Epoch: 0043 train_loss= 1.94753 train/struct_loss= 6.28880 train/feat_loss= 1.18142
+Epoch: 0044 train_loss= 1.94629 train/struct_loss= 6.28057 train/feat_loss= 1.18142
+Epoch: 0045 train_loss= 1.94610 train/struct_loss= 6.27926 train/feat_loss= 1.18142
+Epoch: 0046 train_loss= 1.94569 train/struct_loss= 6.27654 train/feat_loss= 1.18142
+Epoch: 0047 train_loss= 1.94509 train/struct_loss= 6.27256 train/feat_loss= 1.18142
+Epoch: 0048 train_loss= 1.94559 train/struct_loss= 6.27587 train/feat_loss= 1.18142
+Epoch: 0049 train_loss= 1.94611 train/struct_loss= 6.27936 train/feat_loss= 1.18142
+Epoch: 0050 train_loss= 1.94639 train/struct_loss= 6.28120 train/feat_loss= 1.18142
+Epoch: 0050 Auc 0.7981975195801881
+Epoch: 0051 train_loss= 1.94581 train/struct_loss= 6.27733 train/feat_loss= 1.18142
+Epoch: 0052 train_loss= 1.94653 train/struct_loss= 6.28213 train/feat_loss= 1.18142
+Epoch: 0053 train_loss= 1.94525 train/struct_loss= 6.27359 train/feat_loss= 1.18142
+Epoch: 0054 train_loss= 1.94517 train/struct_loss= 6.27311 train/feat_loss= 1.18142
+Epoch: 0055 train_loss= 1.94575 train/struct_loss= 6.27695 train/feat_loss= 1.18142
+Epoch: 0056 train_loss= 1.94505 train/struct_loss= 6.27225 train/feat_loss= 1.18142
+Epoch: 0057 train_loss= 1.94510 train/struct_loss= 6.27263 train/feat_loss= 1.18142
+Epoch: 0058 train_loss= 1.94456 train/struct_loss= 6.26902 train/feat_loss= 1.18142
+Epoch: 0059 train_loss= 1.94452 train/struct_loss= 6.26872 train/feat_loss= 1.18142
+Epoch: 0060 train_loss= 1.94495 train/struct_loss= 6.27162 train/feat_loss= 1.18142
+Epoch: 0060 Auc 0.7980790141355564
+Epoch: 0061 train_loss= 1.94507 train/struct_loss= 6.27242 train/feat_loss= 1.18142
+Epoch: 0062 train_loss= 1.94480 train/struct_loss= 6.27064 train/feat_loss= 1.18142
+Epoch: 0063 train_loss= 1.94490 train/struct_loss= 6.27125 train/feat_loss= 1.18142
+Epoch: 0064 train_loss= 1.94498 train/struct_loss= 6.27179 train/feat_loss= 1.18142
+Epoch: 0065 train_loss= 1.94528 train/struct_loss= 6.27381 train/feat_loss= 1.18142
+Epoch: 0066 train_loss= 1.94475 train/struct_loss= 6.27025 train/feat_loss= 1.18142
+Epoch: 0067 train_loss= 1.94512 train/struct_loss= 6.27277 train/feat_loss= 1.18142
+Epoch: 0068 train_loss= 1.94514 train/struct_loss= 6.27290 train/feat_loss= 1.18142
+Epoch: 0069 train_loss= 1.94518 train/struct_loss= 6.27316 train/feat_loss= 1.18142
+Epoch: 0070 train_loss= 1.94518 train/struct_loss= 6.27312 train/feat_loss= 1.18142
+Epoch: 0070 Auc 0.7982306128559498
+Epoch: 0071 train_loss= 1.94479 train/struct_loss= 6.27056 train/feat_loss= 1.18142
+Epoch: 0072 train_loss= 1.94520 train/struct_loss= 6.27331 train/feat_loss= 1.18142
+Epoch: 0073 train_loss= 1.94494 train/struct_loss= 6.27152 train/feat_loss= 1.18142
+Epoch: 0074 train_loss= 1.94482 train/struct_loss= 6.27076 train/feat_loss= 1.18142
+Epoch: 0075 train_loss= 1.94482 train/struct_loss= 6.27073 train/feat_loss= 1.18142
+Epoch: 0076 train_loss= 1.94451 train/struct_loss= 6.26870 train/feat_loss= 1.18142
+Epoch: 0077 train_loss= 1.94500 train/struct_loss= 6.27196 train/feat_loss= 1.18142
+Epoch: 0078 train_loss= 1.94467 train/struct_loss= 6.26974 train/feat_loss= 1.18142
+Epoch: 0079 train_loss= 1.94535 train/struct_loss= 6.27428 train/feat_loss= 1.18142
+Epoch: 0080 train_loss= 1.94448 train/struct_loss= 6.26848 train/feat_loss= 1.18142
+Epoch: 0080 Auc 0.7981902705769262
+Epoch: 0081 train_loss= 1.94553 train/struct_loss= 6.27547 train/feat_loss= 1.18142
+Epoch: 0082 train_loss= 1.94514 train/struct_loss= 6.27290 train/feat_loss= 1.18142
+Epoch: 0083 train_loss= 1.94485 train/struct_loss= 6.27096 train/feat_loss= 1.18142
+Epoch: 0084 train_loss= 1.94476 train/struct_loss= 6.27033 train/feat_loss= 1.18142
+Epoch: 0085 train_loss= 1.94480 train/struct_loss= 6.27058 train/feat_loss= 1.18142
+Epoch: 0086 train_loss= 1.94507 train/struct_loss= 6.27240 train/feat_loss= 1.18142
+Epoch: 0087 train_loss= 1.94489 train/struct_loss= 6.27121 train/feat_loss= 1.18142
+Epoch: 0088 train_loss= 1.94446 train/struct_loss= 6.26834 train/feat_loss= 1.18142
+Epoch: 0089 train_loss= 1.94491 train/struct_loss= 6.27135 train/feat_loss= 1.18142
+Epoch: 0090 train_loss= 1.94503 train/struct_loss= 6.27217 train/feat_loss= 1.18142
+Epoch: 0090 Auc 0.7982345525316358
+Epoch: 0091 train_loss= 1.94526 train/struct_loss= 6.27366 train/feat_loss= 1.18142
+Epoch: 0092 train_loss= 1.94413 train/struct_loss= 6.26615 train/feat_loss= 1.18142
+Epoch: 0093 train_loss= 1.94437 train/struct_loss= 6.26772 train/feat_loss= 1.18142
+Epoch: 0094 train_loss= 1.94432 train/struct_loss= 6.26740 train/feat_loss= 1.18142
+Epoch: 0095 train_loss= 1.94466 train/struct_loss= 6.26971 train/feat_loss= 1.18142
+Epoch: 0096 train_loss= 1.94411 train/struct_loss= 6.26604 train/feat_loss= 1.18142
+Epoch: 0097 train_loss= 1.94457 train/struct_loss= 6.26910 train/feat_loss= 1.18142
+Epoch: 0098 train_loss= 1.94471 train/struct_loss= 6.26999 train/feat_loss= 1.18142
+Epoch: 0099 train_loss= 1.94491 train/struct_loss= 6.27134 train/feat_loss= 1.18142
+Epoch: 0100 train_loss= 1.94457 train/struct_loss= 6.26910 train/feat_loss= 1.18142
+Epoch: 0100 Auc 0.7980334714846273
+Epoch: 0101 train_loss= 1.94469 train/struct_loss= 6.26989 train/feat_loss= 1.18142
+Epoch: 0102 train_loss= 1.94404 train/struct_loss= 6.26555 train/feat_loss= 1.18142
+Epoch: 0103 train_loss= 1.94491 train/struct_loss= 6.27136 train/feat_loss= 1.18142
+Epoch: 0104 train_loss= 1.94520 train/struct_loss= 6.27328 train/feat_loss= 1.18142
+Epoch: 0105 train_loss= 1.94408 train/struct_loss= 6.26580 train/feat_loss= 1.18142
+Epoch: 0106 train_loss= 1.94445 train/struct_loss= 6.26830 train/feat_loss= 1.18142
+Epoch: 0107 train_loss= 1.94448 train/struct_loss= 6.26849 train/feat_loss= 1.18142
+Epoch: 0108 train_loss= 1.94472 train/struct_loss= 6.27010 train/feat_loss= 1.18142
+Epoch: 0109 train_loss= 1.94473 train/struct_loss= 6.27012 train/feat_loss= 1.18142
+Epoch: 0110 train_loss= 1.94419 train/struct_loss= 6.26655 train/feat_loss= 1.18142
+Epoch: 0110 Auc 0.7980140882802529
+Epoch: 0111 train_loss= 1.94452 train/struct_loss= 6.26872 train/feat_loss= 1.18142
+Epoch: 0112 train_loss= 1.94494 train/struct_loss= 6.27152 train/feat_loss= 1.18142
+Epoch: 0113 train_loss= 1.94455 train/struct_loss= 6.26892 train/feat_loss= 1.18142
+Epoch: 0114 train_loss= 1.94443 train/struct_loss= 6.26818 train/feat_loss= 1.18142
+Epoch: 0115 train_loss= 1.94417 train/struct_loss= 6.26639 train/feat_loss= 1.18142
+Epoch: 0116 train_loss= 1.94425 train/struct_loss= 6.26696 train/feat_loss= 1.18142
+Epoch: 0117 train_loss= 1.94453 train/struct_loss= 6.26880 train/feat_loss= 1.18142
+Epoch: 0118 train_loss= 1.94394 train/struct_loss= 6.26485 train/feat_loss= 1.18142
+Epoch: 0119 train_loss= 1.94468 train/struct_loss= 6.26982 train/feat_loss= 1.18142
+Epoch: 0120 train_loss= 1.94469 train/struct_loss= 6.26987 train/feat_loss= 1.18142
+Epoch: 0120 Auc 0.7980862631388185
+Epoch: 0121 train_loss= 1.94435 train/struct_loss= 6.26764 train/feat_loss= 1.18142
+Epoch: 0122 train_loss= 1.94418 train/struct_loss= 6.26647 train/feat_loss= 1.18142
+Epoch: 0123 train_loss= 1.94397 train/struct_loss= 6.26509 train/feat_loss= 1.18142
+Epoch: 0124 train_loss= 1.94419 train/struct_loss= 6.26653 train/feat_loss= 1.18142
+Epoch: 0125 train_loss= 1.94413 train/struct_loss= 6.26612 train/feat_loss= 1.18142
+Epoch: 0126 train_loss= 1.94417 train/struct_loss= 6.26640 train/feat_loss= 1.18142
+Epoch: 0127 train_loss= 1.94423 train/struct_loss= 6.26681 train/feat_loss= 1.18142
+Epoch: 0128 train_loss= 1.94443 train/struct_loss= 6.26815 train/feat_loss= 1.18142
+Epoch: 0129 train_loss= 1.94420 train/struct_loss= 6.26664 train/feat_loss= 1.18142
+Epoch: 0130 train_loss= 1.94432 train/struct_loss= 6.26741 train/feat_loss= 1.18142
+Epoch: 0130 Auc 0.7980336290716549
+Epoch: 0131 train_loss= 1.94432 train/struct_loss= 6.26744 train/feat_loss= 1.18142
+Epoch: 0132 train_loss= 1.94447 train/struct_loss= 6.26843 train/feat_loss= 1.18142
+Epoch: 0133 train_loss= 1.94381 train/struct_loss= 6.26399 train/feat_loss= 1.18142
+Epoch: 0134 train_loss= 1.94447 train/struct_loss= 6.26842 train/feat_loss= 1.18142
+Epoch: 0135 train_loss= 1.94397 train/struct_loss= 6.26511 train/feat_loss= 1.18142
+Epoch: 0136 train_loss= 1.94439 train/struct_loss= 6.26789 train/feat_loss= 1.18142
+Epoch: 0137 train_loss= 1.94448 train/struct_loss= 6.26850 train/feat_loss= 1.18142
+Epoch: 0138 train_loss= 1.94370 train/struct_loss= 6.26328 train/feat_loss= 1.18142
+Epoch: 0139 train_loss= 1.94444 train/struct_loss= 6.26825 train/feat_loss= 1.18142
+Epoch: 0140 train_loss= 1.94425 train/struct_loss= 6.26694 train/feat_loss= 1.18142
+Epoch: 0140 Auc 0.7980642009549774
+Epoch: 0141 train_loss= 1.94422 train/struct_loss= 6.26675 train/feat_loss= 1.18142
+Epoch: 0142 train_loss= 1.94469 train/struct_loss= 6.26986 train/feat_loss= 1.18142
+Epoch: 0143 train_loss= 1.94470 train/struct_loss= 6.26997 train/feat_loss= 1.18142
+Epoch: 0144 train_loss= 1.94429 train/struct_loss= 6.26723 train/feat_loss= 1.18142
+Epoch: 0145 train_loss= 1.94486 train/struct_loss= 6.27101 train/feat_loss= 1.18142
+Epoch: 0146 train_loss= 1.94448 train/struct_loss= 6.26851 train/feat_loss= 1.18142
+Epoch: 0147 train_loss= 1.94420 train/struct_loss= 6.26663 train/feat_loss= 1.18142
+Epoch: 0148 train_loss= 1.94449 train/struct_loss= 6.26852 train/feat_loss= 1.18142
+Epoch: 0149 train_loss= 1.94420 train/struct_loss= 6.26662 train/feat_loss= 1.18142
+Epoch: 0150 train_loss= 1.94454 train/struct_loss= 6.26889 train/feat_loss= 1.18142
+Epoch: 0150 Auc 0.7980862631388184
+Epoch: 0151 train_loss= 1.94383 train/struct_loss= 6.26412 train/feat_loss= 1.18142
+Epoch: 0152 train_loss= 1.94350 train/struct_loss= 6.26193 train/feat_loss= 1.18142
+Epoch: 0153 train_loss= 1.94407 train/struct_loss= 6.26574 train/feat_loss= 1.18142
+Epoch: 0154 train_loss= 1.94447 train/struct_loss= 6.26843 train/feat_loss= 1.18142
+Epoch: 0155 train_loss= 1.94447 train/struct_loss= 6.26842 train/feat_loss= 1.18142
+Epoch: 0156 train_loss= 1.94439 train/struct_loss= 6.26789 train/feat_loss= 1.18142
+Epoch: 0157 train_loss= 1.94436 train/struct_loss= 6.26772 train/feat_loss= 1.18142
+Epoch: 0158 train_loss= 1.94467 train/struct_loss= 6.26976 train/feat_loss= 1.18142
+Epoch: 0159 train_loss= 1.94385 train/struct_loss= 6.26428 train/feat_loss= 1.18142
+Epoch: 0160 train_loss= 1.94451 train/struct_loss= 6.26871 train/feat_loss= 1.18142
+Epoch: 0160 Auc 0.7980348897678743
+Epoch: 0161 train_loss= 1.94489 train/struct_loss= 6.27120 train/feat_loss= 1.18142
+Epoch: 0162 train_loss= 1.94387 train/struct_loss= 6.26443 train/feat_loss= 1.18142
+Epoch: 0163 train_loss= 1.94401 train/struct_loss= 6.26535 train/feat_loss= 1.18142
+Epoch: 0164 train_loss= 1.94448 train/struct_loss= 6.26849 train/feat_loss= 1.18142
+Epoch: 0165 train_loss= 1.94427 train/struct_loss= 6.26708 train/feat_loss= 1.18142
+Epoch: 0166 train_loss= 1.94444 train/struct_loss= 6.26819 train/feat_loss= 1.18142
+Epoch: 0167 train_loss= 1.94384 train/struct_loss= 6.26422 train/feat_loss= 1.18142
+Epoch: 0168 train_loss= 1.94375 train/struct_loss= 6.26364 train/feat_loss= 1.18142
+Epoch: 0169 train_loss= 1.94416 train/struct_loss= 6.26638 train/feat_loss= 1.18142
+Epoch: 0170 train_loss= 1.94416 train/struct_loss= 6.26633 train/feat_loss= 1.18142
+Epoch: 0170 Auc 0.7979261547189436
+Epoch: 0171 train_loss= 1.94445 train/struct_loss= 6.26826 train/feat_loss= 1.18142
+Epoch: 0172 train_loss= 1.94428 train/struct_loss= 6.26712 train/feat_loss= 1.18142
+Epoch: 0173 train_loss= 1.94391 train/struct_loss= 6.26468 train/feat_loss= 1.18142
+Epoch: 0174 train_loss= 1.94377 train/struct_loss= 6.26378 train/feat_loss= 1.18142
+Epoch: 0175 train_loss= 1.94442 train/struct_loss= 6.26806 train/feat_loss= 1.18142
+Epoch: 0176 train_loss= 1.94468 train/struct_loss= 6.26981 train/feat_loss= 1.18142
+Epoch: 0177 train_loss= 1.94421 train/struct_loss= 6.26666 train/feat_loss= 1.18142
+Epoch: 0178 train_loss= 1.94397 train/struct_loss= 6.26510 train/feat_loss= 1.18142
+Epoch: 0179 train_loss= 1.94437 train/struct_loss= 6.26777 train/feat_loss= 1.18142
+Epoch: 0180 train_loss= 1.94396 train/struct_loss= 6.26500 train/feat_loss= 1.18142
+Epoch: 0180 Auc 0.7980134579321431
+Epoch: 0181 train_loss= 1.94364 train/struct_loss= 6.26289 train/feat_loss= 1.18142
+Epoch: 0182 train_loss= 1.94381 train/struct_loss= 6.26402 train/feat_loss= 1.18142
+Epoch: 0183 train_loss= 1.94399 train/struct_loss= 6.26521 train/feat_loss= 1.18142
+Epoch: 0184 train_loss= 1.94413 train/struct_loss= 6.26616 train/feat_loss= 1.18142
+Epoch: 0185 train_loss= 1.94402 train/struct_loss= 6.26543 train/feat_loss= 1.18142
+Epoch: 0186 train_loss= 1.94427 train/struct_loss= 6.26711 train/feat_loss= 1.18142
+Epoch: 0187 train_loss= 1.94405 train/struct_loss= 6.26562 train/feat_loss= 1.18142
+Epoch: 0188 train_loss= 1.94450 train/struct_loss= 6.26864 train/feat_loss= 1.18142
+Epoch: 0189 train_loss= 1.94429 train/struct_loss= 6.26723 train/feat_loss= 1.18142
+Epoch: 0190 train_loss= 1.94335 train/struct_loss= 6.26096 train/feat_loss= 1.18142
+Epoch: 0190 Auc 0.7980279559386673
+Epoch: 0191 train_loss= 1.94399 train/struct_loss= 6.26521 train/feat_loss= 1.18142
+Epoch: 0192 train_loss= 1.94435 train/struct_loss= 6.26763 train/feat_loss= 1.18142
+Epoch: 0193 train_loss= 1.94391 train/struct_loss= 6.26469 train/feat_loss= 1.18142
+Epoch: 0194 train_loss= 1.94445 train/struct_loss= 6.26828 train/feat_loss= 1.18142
+Epoch: 0195 train_loss= 1.94400 train/struct_loss= 6.26528 train/feat_loss= 1.18142
+Epoch: 0196 train_loss= 1.94380 train/struct_loss= 6.26396 train/feat_loss= 1.18142
+Epoch: 0197 train_loss= 1.94418 train/struct_loss= 6.26647 train/feat_loss= 1.18142
+Epoch: 0198 train_loss= 1.94474 train/struct_loss= 6.27020 train/feat_loss= 1.18142
+Epoch: 0199 train_loss= 1.94406 train/struct_loss= 6.26568 train/feat_loss= 1.18142
+Epoch: 0199 Auc 0.7979825708747655
+
+Process finished with exit code 0

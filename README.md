@@ -1,6 +1,5 @@
 # MSAD
 A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge](https://arxiv.org/pdf/2308.10918)" 
-
 (H. Kim et al., 2023)
 
 <p align="center">

@@ -4,7 +4,7 @@ A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapa
 (H. Kim et al., 2023)
 
 <p align="center">
-<img src="./MSAD.pdf" width="1200">
+<img src="./MSAD.jpg" width="1200">
 </p>
 
 

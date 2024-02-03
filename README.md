@@ -1,6 +1,5 @@
 # MSAD
-A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge](https://arxiv.org/pdf/2308.10918)" 
-(H. Kim et al., 2023)
+A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge]" 
 
 <p align="center">
 <img src="./MSAD.jpg" width="1200">
@@ -29,13 +28,3 @@ different metapath extractors. The meaning of filename is {dataset} {metapath sc
 
     python main.py --dataset cora
 
-
-# Citation
-If you use our code in your research, please cite the following article:
-
-    @article{kim2023deep,
-      title={Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge},
-      author={Kim, Hwan and Kim, Junghoon and Lee, Byung Suk and Lim, Sungsu},
-      journal={arXiv preprint arXiv:2308.10918},
-      year={2023}
-    }

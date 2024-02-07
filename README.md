@@ -1,5 +1,5 @@
-# MSAD
-A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge]" 
+# MGAD
+A PyTorch implementation of "[Label-based Graph Augmentation with Metapath for Graph Anomaly Detection]" 
 
 <p align="center">
 <img src="./MSAD.jpg" width="1200">
@@ -7,7 +7,7 @@ A PyTorch implementation of "[Deep Semi-supervised Anomaly Detection with Metapa
 
 
 # Dependencies
-  Dependencies for all experiments of MSAD are as follows:
+  Dependencies for all experiments of MGAD are as follows:
   
    • Python == 3.7.8
    

@@ -2,7 +2,7 @@
 A PyTorch implementation of "[Improving Feature Representation with Accurate Characterization for GAD]" 
 
 <p align="center">
-<img src="./INFOREP.jpg" width="1200">
+<img src="./INFOREPs.jpg" width="1200">
 </p>
 
 

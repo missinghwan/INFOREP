@@ -1,8 +1,8 @@
-# MGAD
-A PyTorch implementation of "[Label-based Graph Augmentation with Metapath for Graph Anomaly Detection]" 
+# INFOREP
+A PyTorch implementation of "[Improving Feature Representation with Accurate Characterization for GAD]" 
 
 <p align="center">
-<img src="./MSAD.jpg" width="1200">
+<img src="./INFOREP.jpg" width="1200">
 </p>
 
 

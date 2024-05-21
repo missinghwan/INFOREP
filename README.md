@@ -1,5 +1,6 @@
 # INFOREP
-A PyTorch implementation of "[Improving Feature Representation with Accurate Characterization for GAD]" 
+A PyTorch implementation of "[Few Sampled Anomalies are All You Need: A Framework for
+Enhanced Graph Anomaly Detection]" 
 
 <p align="center">
 <img src="./INFOREPs.jpg" width="1200">
